@@ -13,14 +13,13 @@ I am working as a full stack .net developer.
 
 📩 Connect with me:
 <br /><br />
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
-   ad=""/>][linkedin]
+<a href="https://www.linkedin.com/in/bahadır-aşık-556354172" rel="nofollow"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-a%C5%9F%C4%B1k-556354172
 [gmail]: mailto:bahaask41@gmail.com
+
 
 GitHub Analytics 📊
 
