@@ -19,7 +19,7 @@ I am working as a full stack .net developer.
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/bahadır-aşık-556354172
+[linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-a%C5%9F%C4%B1k-556354172
 [gmail]: mailto:bahaask41@gmail.com
 
 GitHub Analytics 📊
